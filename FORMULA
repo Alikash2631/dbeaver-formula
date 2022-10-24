@@ -7,3 +7,4 @@ minimum_version: 2019.2
 summary: dbeaver formula
 description: Formula to install dbeaver and configure it
 top_level_dir: dbeaver
+select*from .....?
